@@ -1,0 +1,6 @@
+{
+  "name": "Bharat City 3D - Open World Driving & Exploration",
+  "description": "An immersive 3D open-world driving and life simulator set in vibrant Indian cities with car dealerships, gun shops, hospital, police, dynamic weather, day-night cycles, NPCs, and free exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
